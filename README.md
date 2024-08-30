@@ -1,4 +1,4 @@
 <h1>
   SAL 413 Final Project
 </h1>
-This project uses boxscore, play-by-play, and shot location data to create a Shiny App to visualize each player's impact on Syracuse's 2022-2023 season. Boxscore data was collected from ESPN using the rvest package. The code above includes how the boxscore data was collected, data manipulation & cleaning code, and the code used to create the Shiny App.
+This project uses boxscore, play-by-play, and shot location data to create a Shiny App to evaluate each player's impact on Syracuse's 2022-2023 season. Boxscore data was collected from ESPN using the rvest package. The code above includes how the boxscore data was collected, data manipulation & cleaning code, and the code used to create the Shiny App.
